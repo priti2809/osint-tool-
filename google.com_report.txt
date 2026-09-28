@@ -1,0 +1,16 @@
+OSINT Exact Risk Report for google.com
+========================================
+URL: http://google.com
+IP Address: 142.251.215.206
+Domain Age: None days
+HTTP Status: 200
+Redirects: 1
+========================================
+Risk Factors Breakdown:
+ - HTTP (Not Secure): 15
+ - IP Resolved: 0
+ - WHOIS Failed: 20
+ - HTTP OK: 0
+========================================
+Total Risk Score: 35
+Verdict: Risky
